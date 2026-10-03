@@ -1,0 +1,11 @@
+{
+  "name":"Devchuli Multiplex",
+  "short_name":"Devchuli",
+  "start_url":"/",
+  "scope":"/",
+  "display":"standalone",
+  "background_color":"#f4f6fa",
+  "theme_color":"#101827",
+  "description":"Devchuli Multiplex multi-business customer app and admin system",
+  "icons":[{"src":"/static/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
